@@ -4,7 +4,6 @@ import os
 import glob
 import pandas as pd
 from collections import defaultdict
-import yaml
 from pathlib import Path
 
 
