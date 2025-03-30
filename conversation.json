@@ -1,0 +1,32 @@
+[
+    {
+        "speaker": "Customer",
+        "text": "You have reached the voicemail of John Smith. Please leave a message after the tone.",
+        "stime": 0,
+        "etime": 8
+    },
+    {
+        "speaker": "Agent",
+        "text": "Hello John, this is Lisa from XYZ Collections. I'm trying to reach you about your overdue account.",
+        "stime": 9,
+        "etime": 20
+    },
+    {
+        "speaker": "Customer",
+        "text": "If this is an emergency, please hang up and call 911 bitch.",
+        "stime": 21,
+        "etime": 28
+    },
+    {
+        "speaker": "Agent",
+        "text": "You can reach me at five five five one two three four five. It's important to discuss your payment options.",
+        "stime": 29,
+        "etime": 42
+    },
+    {
+        "speaker": "Customer",
+        "text": "Thank you for calling, have a great day!",
+        "stime": 43,
+        "etime": 50
+    }
+]
